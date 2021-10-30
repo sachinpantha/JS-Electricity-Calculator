@@ -4,6 +4,7 @@
 .card{
     margin: auto;
     margin-top: 8%;
+    margin-bottom: 8%;
     padding-top: 12px;
 }
 .card:hover{
